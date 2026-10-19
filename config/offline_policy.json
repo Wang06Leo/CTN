@@ -1,0 +1,14 @@
+{
+  "offline_only": true,
+  "mock_max_chars": 200,
+  "block_obvious_injection": true,
+  "reference": "https://capturethenarrative.com/info/competitions/2026/scoring/ (public: NPC prompt injection prohibited; local patterns are NOT official detection)",
+  "unverified_constraints": {
+    "per_action_api_limits": null,
+    "team_bot_caps": null,
+    "account_caps": null,
+    "official_model_quota": null,
+    "official_write_schemas": null,
+    "data_permissions": null
+  }
+}

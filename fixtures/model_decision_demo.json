@@ -1,0 +1,7 @@
+{
+  "kind": "reply",
+  "post_id": "synthetic-001",
+  "text": "Offline test response: the local library information is not in this dataset.",
+  "reason_code": "fixture_question",
+  "confidence": 0.6
+}

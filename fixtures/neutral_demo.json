@@ -1,0 +1,7 @@
+{
+  "fixture_type": "LOCAL_SYNTHETIC_NOT_OFFICIAL",
+  "posts": [
+    {"id": "synthetic-001", "author": "fictional_a", "text": "When does the community library open?"},
+    {"id": "synthetic-002", "author": "fictional_b", "text": "The book club meets next week."}
+  ]
+}

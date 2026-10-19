@@ -1,0 +1,11 @@
+{
+  "official_2026_docs_verified": false,
+  "authentication_confirmed": false,
+  "per_action_schema_confirmed": false,
+  "rate_limits_confirmed": false,
+  "account_limits_confirmed": false,
+  "telemetry_requirements_confirmed": false,
+  "data_sharing_rules_confirmed": false,
+  "team_authorization_confirmed": false,
+  "live_test_procedure_approved": false
+}

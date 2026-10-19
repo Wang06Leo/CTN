@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": "demo-short",
+      "author": "synthetic_a",
+      "text": "Where?"
+    },
+    {
+      "id": "demo-chinese-only",
+      "author": "synthetic_b",
+      "text": "这是一条很长很长很长的虚构示例问题，但是它只有中文问号，因此不能匹配我们的英文问号选择条件？"
+    },
+    {
+      "id": "demo-long",
+      "author": "synthetic_c",
+      "text": "Could you explain where I can find the library opening hours and whether they change during the weekend?"
+    },
+    {
+      "id": "demo-not-question",
+      "author": "synthetic_d",
+      "text": "This is an ordinary statement without an ASCII question mark, even though the message is intended to be much longer than the short example post above."
+    }
+  ]
+}
